@@ -1,3 +1,12 @@
+# Descripción
+Es un CRUD usando axios para hacer llamadas a la API de https://pokeapi.co/ y usa firebase para guardar los datos. Se ha usado redux y la autenticación de google. 
+
+Forma parte del curso: React JS Desde Cero! Hooks, Redux, Context, Firebase y más! || https://www.udemy.com/course/curso-react-js/
+
+### URL del proyecto: 
+--> https://pokeproyecto-f80b8.web.app/login
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
